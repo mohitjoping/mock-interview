@@ -1,0 +1,6 @@
+steps: 
+pnpm i
+pnpm run dev
+clerk setup
+npm i lodash.debounce
+
