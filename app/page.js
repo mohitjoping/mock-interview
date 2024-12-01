@@ -25,16 +25,6 @@ export default function Component() {
                 <br />
                 Career Development
               </h1>
-              <div className="flex items-center justify-center space-x-2 text-xl">
-                <span className="text-black-600">by</span>{" "}
-                <Image
-                  src="/images/pixona_logo_2.png"
-                  alt="Pixona logo"
-                  width={115}
-                  height={115}
-                  className="inline-block"
-                />
-              </div>
               <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
                 Practice the skills you need to land the job.
               </p>
